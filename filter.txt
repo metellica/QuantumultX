@@ -1,0 +1,2 @@
+# filter.txt
+host-suffix, perplexity.aix, AI
